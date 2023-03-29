@@ -2,7 +2,7 @@
 
 
 
-## Codar é um modo de pensar
+
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="left"height="250" alt="coding-time" src="midia/code.gif">
@@ -14,11 +14,12 @@
   <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>                                                                                                                              
+   </div>   
+  Codar é um modo de pensar!
 </div>
 
 
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 
 
